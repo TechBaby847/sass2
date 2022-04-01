@@ -1,0 +1,40 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    ul {
+        display: flex;
+        text-align: center;
+    }
+
+    .btn {
+        margin: 0.5rem;
+        background-color: #000000;
+        color: $First-color;
+        border-radius: 0%;
+    }
+  
+}
+.navbar-brand {
+text-decoration: underline;
+font-weight: bolder;
+}
+
+#navbarSupportedContent {
+justify-content: center;
+align-items: center;
+
+a {
+    color: #a3a2a2
+}
+
+a:hover {
+    color: #4f5bff
+}
+
+a.btn {
+    align-self: flex-end
+}
+
+}

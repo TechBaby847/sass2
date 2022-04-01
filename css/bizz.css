@@ -1,0 +1,265 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f4f4f4;
+  font-family: arial, helvetica, sans-serif;
+}
+
+.carousel-caption {
+  margin-bottom: 7rem;
+}
+
+.carousel-inner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.carousel-inner h1 {
+  font-size: 5rem;
+}
+
+hr.style-two {
+  border: 0;
+  height: 1px;
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.75)), to(rgba(0, 0, 0, 0)));
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+#move {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#move .cond {
+  margin-top: 8rem;
+  margin-bottom: 3rem;
+}
+
+#header2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.btn {
+  background-color: #000000;
+  color: #f4f4f4;
+  border-radius: 0%;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+}
+
+nav .btn {
+  margin: 0.5rem;
+  background-color: #000000;
+  color: #f4f4f4;
+  border-radius: 0%;
+}
+
+.navbar-brand {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+#navbarSupportedContent {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#navbarSupportedContent a {
+  color: #a3a2a2;
+}
+
+#navbarSupportedContent a:hover {
+  color: #4f5bff;
+}
+
+#navbarSupportedContent a.btn {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+}
+
+#roamer {
+  padding-top: 8rem;
+  margin-top: 9rem;
+  margin-bottom: 9rem;
+  height: 400px;
+  background-color: #eeeeee;
+}
+
+#roamer .btn {
+  background-color: #000000;
+  color: #f4f4f4;
+}
+
+.Abba {
+  background: url("https://st.depositphotos.com/1001555/4216/i/600/depositphotos_42167121-stock-photo-work-life-balance.jpg") center center/cover no-repeat;
+  height: 600px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: azure;
+  border-radius: 0% !important;
+  margin-left: 2.05rem;
+  margin-right: 2.05rem;
+  background-size: 100% 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.caddie {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 5rem;
+}
+
+.caddie .no2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 2rem;
+}
+
+.Baab {
+  background: url("https://i.pinimg.com/736x/56/1e/80/561e807eab250507252c0a5eb0cbab65.jpg");
+  height: 600px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: azure;
+  border-radius: 0% !important;
+  margin-left: 2.05rem;
+  margin-right: 2.05rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.space {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.wide .img-fluid {
+  max-width: 100%;
+  height: 70%;
+}
+
+.Cbbc {
+  background: url("https://2bcxm39bhr73x5pn814vosb1-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/20180526-01536_Duisburg.jpg") center center/cover no-repeat;
+  height: 600px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: azure;
+  border-radius: 0% !important;
+  margin-left: 2.05rem;
+  margin-right: 2.05rem;
+  background-size: 100% 100%;
+}
+
+.flexxy {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.Bccb {
+  background: url("https://www.designyourway.net/blog/wp-content/uploads/2016/07/Dark-wallpaper-desktop-background-54-700x438.jpg") center center/cover no-repeat;
+  height: 600px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: azure;
+  border-radius: 0% !important;
+  margin-left: 2.05rem;
+  margin-right: 2.05rem;
+  background-size: 100% 100%;
+}
+
+.mage .img-fluid {
+  max-width: 100%;
+  height: 700px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.Cddc {
+  background: url("https://www.beckuk.com/img/services-banner.jpg") center center/cover no-repeat;
+  height: 600px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: azure;
+  border-radius: 0% !important;
+  margin-left: 2.05rem;
+  margin-right: 2.05rem;
+  background-size: 100% 100%;
+}
+
+.wall {
+  border: 1px solid #c2c0c0;
+  padding-top: 7rem;
+  padding-right: 10rem !important;
+  padding-bottom: 3rem;
+  padding-left: 2rem !important;
+}
+
+.underline {
+  text-decoration: underline;
+}
+/*# sourceMappingURL=bizz.css.map */

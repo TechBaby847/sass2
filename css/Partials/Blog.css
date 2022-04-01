@@ -1,0 +1,19 @@
+.Bccb {
+  background: url("https://images.unsplash.com/photo-1530461215976-31923a646c83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80");
+  height: 600px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: azure;
+  border-radius: 0% !important;
+  margin-left: 2.05rem;
+  margin-right: 2.05rem;
+}
+
+body {
+  background: red !important;
+}
+/*# sourceMappingURL=Blog.css.map */

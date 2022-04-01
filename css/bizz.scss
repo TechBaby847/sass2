@@ -1,0 +1,64 @@
+
+
+$Font-stack: arial, helvetica,sans-serif;
+$First-color: #f4f4f4;
+
+
+
+* { box-sizing : border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: $First-color;
+    font-family: $Font-stack;
+}
+  
+.carousel-caption {
+    margin-bottom: 7rem;
+}
+.carousel-inner {
+    display: flex;
+    align-items: center;
+    h1 {
+        font-size: 5rem;
+    }
+}
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+#move {
+    padding-left: 150px;
+    padding-right: 150px;
+
+    .cond {
+        margin-top: 8rem;
+        margin-bottom: 3rem;
+    }
+
+}
+ #header2 {
+     display: flex;
+     }
+
+
+     .btn {
+    background-color: #000000;
+    color: $First-color;
+    border-radius: 0%;
+     }
+
+
+
+ @import 'Partials/navbar';
+ @import 'jumbotron';
+ @import 'About';
+ @import 'Partials/Work';
+ @import 'Partials/Team';
+ @import 'Partials/Blog';
+ @import 'Partials/Contact';
